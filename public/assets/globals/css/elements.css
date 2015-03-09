@@ -14541,3 +14541,15 @@ pre .hljs {
     border-left-color: transparent;
   }
 }
+/* Marcus */
+.red-led-bg-image:before {
+  background-image: url('/img/1/parts/led-red.png');
+}
+
+.resistor-330-ohm-bg-image:before {
+  background-image: url('/img/1/parts/330-ohm-resistor.png');
+}
+
+.jumper-wires-bg-image:before {
+  background-image: url('/img/1/parts/jumper-wires.jpg');
+}
